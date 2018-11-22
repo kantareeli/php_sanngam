@@ -1,0 +1,115 @@
+@charset "utf-8";
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	font-family: Tahoma;
+	font-size: 0.85em;
+}
+
+a {
+	color: #454545;
+}
+
+
+a:hover {
+	color: #CC3300;
+	text-decoration: underline;
+}
+* {
+	padding: 0;
+	margin: 0;
+	outline: none;
+	list-style-type: none;
+	text-decoration: none;
+}
+form {
+	padding: 0;
+	margin: 0;
+	vertical-align: middle;
+	font-family: Tahoma, sans serif;
+}
+input, select {
+	padding: 0;
+	margin: 0;
+	vertical-align: middle;
+	font-family: Tahoma, sans serif;
+}
+.m10w  { color: #FFFFFF; font-size: 10pt; font-family: Tahoma; text-decoration: none }
+.m10wB  { color: #FFFFFF; font-size: 10pt; font-family: Tahoma; text-decoration: none;FONT-WEIGHT: BOLD; }
+.m10B  { color: #000000; font-size: 10pt; font-family: Tahoma; text-decoration: none; FONT-WEIGHT: BOLD; }
+.m10  { color: #000000; font-size: 10pt; font-family: Tahoma; text-decoration: none }
+.m10gB  { color: #505050; font-size: 10pt; font-family: Tahoma; text-decoration: none; FONT-WEIGHT: BOLD; }
+.m12  { color: #000000; font-size: 12pt; font-family: Tahoma; text-decoration: none }
+.m12w  { color: #FFFFFF; font-size: 12pt; font-family: Tahoma; text-decoration: none }
+.m1 { color: #000000; font-size: 1pt; font-family: Tahoma; text-decoration: none }
+.m8 { color: #000000; font-size: 8pt; font-family: Tahoma; text-decoration: none }
+.m8B { color: #000000; font-size: 8pt; font-family: Tahoma; text-decoration: none; FONT-WEIGHT: BOLD; }
+.m8w { color: #FFFFFF; font-size: 8pt; font-family: Tahoma; text-decoration: none }
+.m8wB { color: #FFFFFF; font-size: 8pt; font-family: Tahoma; text-decoration: none; FONT-WEIGHT: BOLD; }
+.m8gB  { color: #505050; font-size: 8pt; font-family: Tahoma; text-decoration: none; FONT-WEIGHT: BOLD; }
+.v8 { color: #464646; font-size: 8pt; font-family: "Verdana, Arial,Thonburi"; text-decoration: none }
+.v8w  { color: #FFFFFF;  font-weight: bold ; font-size: 8pt; font-family: "Verdana, MS Sans Serif, AngsanaUPC, Arial,Tahoma, Thonburi "; text-decoration: none }
+.head10 { color: #783E0C; font-weight: bold ; font-size: 10pt; font-family: Tahoma; text-decoration: none }
+.fp1_10 { color: #f301bb; font-size: 10pt; font-family: Tahoma; text-decoration: none ; FONT-WEIGHT: BOLD; }
+.fp2_10 { color: #f301bb; font-size: 10pt; font-family: Tahoma; text-decoration: none }
+.hi18  { color: #E60000 ; font-size: 18pt; font-family: Tahoma; text-decoration: none }
+.hi12  { color: #525252; font-weight: bold ; font-size: 12pt; font-family: Tahoma; text-decoration: none }
+.v9w  { color: #FFFFFF; font-size: 10pt; font-family: Tahoma; text-decoration: none }
+.v8b  { color: #000000; font-size: 8pt; font-family: Tahoma;; text-decoration: none }
+.mred12 { color: #E40000; font-size: 12pt; font-family: Tahoma; text-decoration: none }
+.m10bB {color: #0099FF;	font-weight: bold; font-size: 10pt; font-family: Tahoma; text-decoration: none }
+.m10b {color: #0099FF;	 font-size: 10pt; font-family: Tahoma; text-decoration: none }
+.m8bB {color: #0099FF;	font-weight: bold; font-size: 8pt; font-family: Tahoma; text-decoration: none }
+A.newlink {
+	FONT-SIZE: 12px; COLOR: #666666; FONT-FAMILY: "MS Sans Serif", "MS Sans Serif", tahoma; TEXT-DECORATION: none
+}
+A.newlink:visited {
+	FONT-SIZE: 12px; COLOR: #666666; FONT-FAMILY: "MS Sans Serif", "MS Sans Serif", tahoma; TEXT-DECORATION: none
+}
+A.newlink:hover {
+	FONT-SIZE: 12px; COLOR: #ea2727; FONT-FAMILY: "MS Sans Serif", MS Sans Serif, tahoma
+}
+
+
+A.newlinkPink {
+	 color: #f301bb; font-size: 10pt; font-family: Tahoma; text-decoration: none ; FONT-WEIGHT: BOLD;
+}
+A.newlinkPink:visited {
+	 color: #f301bb; font-size: 10pt; font-family: Tahoma; text-decoration: none ; FONT-WEIGHT: BOLD;
+}
+A.newlinkPink:hover {
+	 color: red; font-size: 10pt; font-family: Tahoma; 	text-decoration: underline ; FONT-WEIGHT: BOLD;
+}
+
+A.newlinkPink8 {
+	 color: #f301bb; font-size: 10pt; font-family: Tahoma; text-decoration: none ; FONT-WEIGHT: BOLD;
+}
+A.newlinkPink8:visited {
+	 color: #f301bb; font-size: 10pt; font-family: Tahoma; text-decoration: none ; FONT-WEIGHT: BOLD;
+}
+A.newlinkPink8:hover {
+	 color: red; font-size: 10pt; font-family: Tahoma; 	text-decoration: underline ; FONT-WEIGHT: BOLD;
+}
+
+A.newlinkBlue {
+	 color: #037ccc; font-size: 10pt; font-family: Tahoma; text-decoration: none ; FONT-WEIGHT: BOLD;
+}
+A.newlinkBlue:visited {
+	 color: #037ccc; font-size: 10pt; font-family: Tahoma; text-decoration: none ; FONT-WEIGHT: BOLD;
+}
+A.newlinkBlue:hover {
+	 color: #035083; font-size: 10pt; font-family: Tahoma; 	text-decoration: underline ; FONT-WEIGHT: BOLD;
+}
+
+A.newlinkWhite {
+	 color: #FFFFFF; font-size: 10pt; font-family: Tahoma; text-decoration: none ; FONT-WEIGHT: BOLD;
+}
+A.newlinkWhite:visited {
+	 color: #FFFFFF; font-size: 10pt; font-family: Tahoma; text-decoration: none ; FONT-WEIGHT: BOLD;
+}
+A.newlinkWhite:hover {
+	 color: #CCCCCC; font-size: 10pt; font-family: Tahoma; 	text-decoration: underline ; FONT-WEIGHT: BOLD;
+}
+

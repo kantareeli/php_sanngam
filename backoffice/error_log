@@ -1,0 +1,1 @@
+[31-Mar-2008 21:45:16] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/truebask/public_html/backoffice/process_addmember.php on line 61

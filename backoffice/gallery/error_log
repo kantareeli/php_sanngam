@@ -1,0 +1,7 @@
+[30-Mar-2008 10:17:59] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: gaHilight not found in MySQL result index 5 in /home/truebask/public_html/backoffice/gallery/gallery_subject.php on line 204
+[30-Mar-2008 10:18:04] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/truebask/public_html/backoffice/gallery/gallery_view.php on line 31
+[30-Mar-2008 10:18:04] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/truebask/public_html/backoffice/gallery/gallery_view.php on line 32
+[30-Mar-2008 10:21:34] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/truebask/public_html/backoffice/gallery/gallery_view.php on line 31
+[30-Mar-2008 10:21:34] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/truebask/public_html/backoffice/gallery/gallery_view.php on line 32
+[30-Mar-2008 10:22:16] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/truebask/public_html/backoffice/gallery/gallery_view.php on line 31
+[30-Mar-2008 10:22:16] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/truebask/public_html/backoffice/gallery/gallery_view.php on line 32

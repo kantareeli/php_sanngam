@@ -1,0 +1,50 @@
+<!-- saved from url=(0028)http://www.uq.edu.au/events/ -->
+<HTML lang=EN><HEAD>
+<LINK href="events.css" type=text/css rel=stylesheet>
+<LINK href="calendar-blue.css" type=text/css rel=stylesheet>
+<SCRIPT src="calendar.js" 
+type=text/javascript></SCRIPT>
+
+<SCRIPT src="calendar-en.js" 
+type=text/javascript></SCRIPT>
+
+<SCRIPT src="calendar-setup.js" 
+type=text/javascript></SCRIPT>
+</HEAD>
+<BODY><!--START: Header -->
+
+	
+	  
+	  <LABEL for=datedataf> From:</LABEL></B><BR>
+	  <INPUT class=formfieldsm id=datedataf readOnly name=datedataf> 
+	  <IMG id=trigger_f style="CURSOR: pointer" height=15 alt="Pop up a calendar to select a date" 
+      src="cal.gif" width=16 border=0><BR>
+	  
+	  <LABEL for=datedatar>To:</LABEL></B><BR>
+	  <INPUT class=formfieldsm id=datedatar readOnly name=datedatar> 
+	  <IMG id=trigger_r style="CURSOR: pointer" height=15 alt="Pop up a calendar to select a date" 
+      src="cal.gif" width=16 border=0><BR>
+
+	  <!-- Popup Calendar -->
+      <SCRIPT type=text/javascript>
+        	Calendar.setup(
+        		{
+        			inputField	: "datedataf",
+        			ifFormat		: "%d-%m-%Y",
+        			button			: "trigger_f"
+        		}
+        	);
+        </SCRIPT>
+
+      <SCRIPT type=text/javascript>
+        	Calendar.setup(
+        		{
+        			inputField	: "datedatar",
+        			ifFormat		: "%d-%m-%Y",
+        			button			: "trigger_r"
+        		}
+        	);
+        </SCRIPT>
+
+	</BODY>
+ </html>

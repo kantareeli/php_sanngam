@@ -1,0 +1,2 @@
+[02-Apr-2008 17:36:09] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/truebask/public_html/backoffice/webboard/edit.php on line 188
+[02-Apr-2008 17:36:09] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/truebask/public_html/backoffice/webboard/edit.php on line 218

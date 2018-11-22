@@ -1,0 +1,1 @@
+[30-Mar-2008 10:10:02] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: nPicture not found in MySQL result index 5 in /home/truebask/public_html/backoffice/announce/ann_main.php on line 204

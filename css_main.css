@@ -1,0 +1,37 @@
+.m8w { color: #FFFFFF; font-size: 8pt; font-family: "MS Sans Serif, AngsanaUPC, Arial, Verdana,Tahoma, Thonburi"; text-decoration: none }
+.m10w  { color: #FFFFFF; font-size: 10pt; font-family: "MS Sans Serif, AngsanaUPC, Arial, Verdana,Tahoma, Thonburi"; text-decoration: none }
+.m10  { color: #000000; font-size: 10pt; font-family: "MS Sans Serif, AngsanaUPC, Arial, Verdana,Tahoma, Thonburi"; text-decoration: none }
+.m8 { color: #000000; font-size: 8pt; font-family: "MS Sans Serif, AngsanaUPC, Arial, Verdana,Tahoma, Thonburi"; text-decoration: none }
+.m12{ color: #505050; font-size: 12pt; font-family: "MS Sans Serif, AngsanaUPC, Arial, Verdana,Tahoma, Thonburi"; text-decoration: none }
+.m12w { color: #FFFFFF; font-size: 12pt; font-family: "MS Sans Serif, AngsanaUPC, Arial, Verdana,Tahoma, Thonburi"; text-decoration: none }
+.m10w  { color: #FFFFFF; font-size: 10pt; font-family: "MS Sans Serif, AngsanaUPC, Arial, Verdana,Tahoma, Thonburi"; text-decoration: none }
+.v8 { color: #464646; font-size: 8pt; font-family: "Verdana, Arial,Thonburi"; text-decoration: none }
+.v8w  { color: #FFFFFF;  font-weight: bold ; font-size: 8pt; font-family: "Verdana, MS Sans Serif, AngsanaUPC, Arial,Tahoma, Thonburi "; text-decoration: none }
+.v9w  { color: #FFFFFF; font-size: 10pt; font-family: "Verdana, MS Sans Serif, AngsanaUPC, Arial,Tahoma, Thonburi "; text-decoration: none }
+.v8b  { color: #000000; font-size: 8pt; font-family: "Verdana, MS Sans Serif, AngsanaUPC, Arial,Tahoma, Thonburi "; text-decoration: none }
+.mred12 { color: #E40000; font-size: 12pt; font-family: "MS Sans Serif, AngsanaUPC, Arial, Verdana,Thonburi"; text-decoration: none }
+.pink10link  { color: #D1006D; font-size: 10pt; font-family: "MS Sans Serif, AngsanaUPC, Arial, Verdana,Tahoma, Thonburi"; text-decoration: underline }
+A:link {  COLOR: 003399; text-decoration: none }
+A:visited {  COLOR: #003399; text-decoration: none}
+A:hover {	TEXT-DECORATION: underline}
+.li { COLOR: #cd3229; ; font-size: 10pt; font-family: "MS Sans Serif, AngsanaUPC, Arial, Verdana,Tahoma, Thonburi"; text-decoration: none }
+
+.m11  { color: #330066; font-size: 20pt; font-family: "MS Sans Serif, AngsanaUPC, Arial, Verdana,Tahoma, Thonburi"; text-decoration: none }
+.head10 { color: #783E0C; font-weight: bold ; font-size: 10pt; font-family: "MS Sans Serif, AngsanaUPC, Arial, Verdana,Tahoma, Thonburi"; text-decoration: none }
+.fp10 { color: #783E0C; font-size: 10pt; font-family: "MS Sans Serif, AngsanaUPC, Arial, Verdana,Tahoma, Thonburi"; text-decoration: none }
+.hi18  { color: #E50000 ; font-size: 18pt; font-family: "MS Sans Serif, AngsanaUPC, Arial, Verdana,Tahoma, Thonburi"; text-decoration: none }
+.hi12  { color: #525252; font-weight: bold ; font-size: 12pt; font-family: "MS Sans Serif, AngsanaUPC, Arial, Verdana,Tahoma, Thonburi"; text-decoration: none }
+
+ .footer {	color: #999999; font-size: 8pt; font-family: "MS Sans Serif",}
+.mainnews {FONT: 9pt/12pt 'MS Sans Serif'; COLOR: #0070bc; TEXT-DECORATION: none}
+.gray_m {	FONT: 8pt/12pt 'MS Sans Serif'; COLOR: #4e4e4e}
+
+A.newlinkPink {
+	 color: #f301bb; font-size: 10pt; font-family: Tahoma; text-decoration: none ; FONT-WEIGHT: BOLD;
+}
+A.newlinkPink:visited {
+	 color: #f301bb; font-size: 10pt; font-family: Tahoma; text-decoration: none ; FONT-WEIGHT: BOLD;
+}
+A.newlinkPink:hover {
+	 color: red; font-size: 10pt; font-family: Tahoma; 	text-decoration: underline ; FONT-WEIGHT: BOLD;
+}
